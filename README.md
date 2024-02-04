@@ -2,6 +2,8 @@
 
 The main repository for a future employment-related project dedicated to the betterment of the municipality of Harjavalta.
 
+The GitHub pages website can be found here for now: https://capomk25.github.io/harjavalta_project/
+
 Features to be developed in the future: 
 
 - User profiles and resumes (Allow job seekers to create detailed profiles showcasing their skills, experience, and qualifications. Include features for uploading resumes and portfolios. Ensure profiles are searchable and accessible to employers.)
