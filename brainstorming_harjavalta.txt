@@ -1,6 +1,5 @@
-- Should be made from the POV of making something better for the municipality as a whole. 
-- Even better if it's usable by all the residents. Thus usability is a big factor technically.
-- 
+- Should be made from the POV of making employment better for the municipality as a whole. 
+- Even better if it's usable by all the residents. Thus usability is a big factor technically
 
 - Currently the municipality is suffering from a range of issues, including: 
 
