@@ -1,5 +1,6 @@
 - Should be made from the POV of making employment better for the municipality as a whole. 
 - Even better if it's usable by all the residents. Thus usability is a big factor technically
+- The tech stack should most likely be focused around Django and React
 
 - Currently the municipality is suffering from a range of issues, including: 
 
