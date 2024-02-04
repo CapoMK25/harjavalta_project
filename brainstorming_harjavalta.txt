@@ -1,0 +1,71 @@
+- Should be made from the POV of making something better for the municipality as a whole. 
+- Even better if it's usable by all the residents. Thus usability is a big factor technically.
+- 
+
+- Currently the municipality is suffering from a range of issues, including: 
+
+		- High amount of poverty 
+		- High amount of people moving away from the municipality 
+		- Low cost of housing due to these factors 
+		- Higher amount of relative unemployment (about 11% within Satakunta)
+
+
+- I could leverage my own knowledge within transportation inside the municipality to better the CO2 emissions? 
+- I've been able to live within the city with just a bike now for a long time. 
+
+- Pros and cons within the municipality currently: 
+
+	- Pros: 
+
+		- Low housing prices. You can find a 2 bedroom apartment with good service availability for 10 times less than in the capital region.
+		- Suprisingly good services and local companies to choose from. 
+		- Close to beautiful nature. 
+		- Historically relevant museum within the municipality. 
+		- Suprisingly good public transport considering the location (Onnibus, VR, Satakunnan liikenne).
+		- Very good internet capabilities (1GB up/down max). 
+		- Friendly people. 
+		- Sometimes a chance to see some very good live events (a good example Käärijä from 2023, https://www.harjavalta.fi/2-9-kaarija-harjavallassa/).
+		- Good amount of bigger companies (Kemira, Boliden).
+
+
+
+	- Cons: 
+
+		- High amount of poverty. 
+		- Low amount of employment options on a large scale. 
+		- Low amount of good support services. 
+		- Hard to sell apartments/rent apartments due to the nature of the municipality. 
+		- Sometimes a chance for high pollution. 
+		- No real differences between areas, a lot look exactly the same.
+
+
+
+
+
+ChatGPT can help out. Currently it comes up with the following ideas: 
+
+"Job Opportunities and Economic Development:
+
+Develop a platform or app that connects local businesses with potential employees. This could help in reducing unemployment by facilitating easier job searches.
+Explore the possibility of creating a virtual job fair or networking platform to connect local talents with employers.
+Skill Development and Education:
+
+Create an online platform for skill development and training programs. This could include courses tailored to the needs of local industries, helping residents acquire the skills in demand.
+Develop an educational app that provides resources for students and adults to learn new skills, fostering a culture of continuous learning.
+Community Engagement:
+
+Design a community app that encourages social interaction, events, and local news. This can strengthen community ties and create a sense of belonging.
+Consider a platform where locals can share resources, such as tools or services, to promote a collaborative and supportive community.
+Local Services Directory:
+
+Build a comprehensive directory of local services, businesses, and resources. This could include everything from healthcare facilities to recreational activities.
+Enable residents to easily access information about available services, promoting local businesses and improving the overall quality of life.
+Remote Work Support:
+
+Given the trend towards remote work, consider creating resources or a platform to help locals find remote job opportunities, allowing them to stay in the municipality while working for companies outside the region.
+Tourism Promotion:
+
+If applicable, develop a tourism app that showcases the natural beauty, cultural events, and attractions in the area. Attracting tourists could stimulate local economies.
+Remember to involve the community in the development process. Conduct surveys, interviews, or workshops to understand their specific needs and preferences. Collaborate with local authorities and organizations to ensure the project aligns with the municipality's goals.
+
+This is just a starting point, and the possibilities are vast. Depending on the specific needs of the municipality and your skills, you can tailor the project accordingly."
