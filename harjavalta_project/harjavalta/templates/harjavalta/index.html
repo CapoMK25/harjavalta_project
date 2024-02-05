@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Duuniin Vallassa</title>
+    <title>Duunin Vallassa</title>
     {% load static %}
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap"/>
@@ -14,15 +14,9 @@
 
     <!-- Header Section -->
     <header>
-        <h1>Duuniin Vallassa</h1>
+        <h1>Duunin Vallassa</h1>
        
     </header>
-
-    <div id="main">
-    <div id="harjavalta"></div>
-    </div>
-
-    <script src="{% static "main.js" %}"></script>
 
     <main>
         <section>
@@ -35,9 +29,39 @@
 
     </main>
 
+    <nav>
+        <a href="#">Home</a>
+        <a href="#">Jobs</a>
+        <a href="#">About</a>
+        <a href="#">Contact</a>
+    </nav>
+
+    <div class="main-content">
+        <!-- Your main content goes here -->
+
+        <div class="job-listing">
+            <h2>Job Title</h2>
+            <p>Company Name</p>
+            <p>Description of the job listing goes here.</p>
+        </div>
+
+        <div class="job-listing">
+            <h2>Another Job Title</h2>
+            <p>Another Company</p>
+            <p>Description of another job listing.</p>
+        </div>
+
+    </div>
+
+    <div id="main">
+    <div id="harjavalta"></div>
+    </div>
+
+    <script src="{% static "main.js" %}"></script>
+
     <!-- Footer Section -->
     <footer>
-        <p>&copy; 2024 Duuniin Vallassa</p>
+        <p>&copy; 2024 Duunin Vallassa</p>
         
     </footer>
 
