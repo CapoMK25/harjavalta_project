@@ -52,18 +52,47 @@ main {
 }
 
 /* Styling for job listings */
-.job-listing {
+.yrityksille {
     border: 1px solid #ccc;
     padding: 1em;
     margin-bottom: 1em;
+    width: 48%; /* Set the width to leave some space between the divs */
+    box-sizing: border-box; /* Include padding and border in the width */
+    float: left; /* Float the divs to make them appear side by side */
+    margin-right: 2%; /* Add a margin to create space between the divs */
 }
 
-.job-listing h2 {
+.yrityksille h2 {
     color: #333;
 }
 
-.job-listing p {
+.yrityksille p {
     color: #666;
+}
+
+.tekijöille {
+    border: 1px solid #ccc;
+    padding: 1em;
+    margin-bottom: 1em;
+    width: 48%; /* Set the width to leave some space between the divs */
+    box-sizing: border-box; /* Include padding and border in the width */
+    float: left; /* Float the divs to make them appear side by side */
+    margin-right: 2%; /* Add a margin to create space between the divs */
+}
+
+.tekijöille h2 {
+    color: #333;
+}
+
+.tekijöille p {
+    color: #666;
+}
+
+/* Clear the float after the floated divs */
+.clearfix:after {
+    content: "";
+    display: table;
+    clear: both;
 }
 
 
