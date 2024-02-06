@@ -1,12 +1,20 @@
-h1, h2, h3, p {
+h2, h3, p {
     margin: 0;
     padding: 0;
+    color: #000000;
+}
+
+h1 {
+    margin: 0;
+    padding: 0;
+    font-size: 58px;
+
 }
 
 body {
     background-color: rgb(106, 198, 237);
     background-image: url("Harjavalta.vaakuna.svg.png");
-    font-family: 'Lucida Console', monospace;
+    font-family: 'Montserrat', sans-serif;
     margin: 0;
     padding: 0;
     display: flex;
@@ -19,8 +27,7 @@ body {
 
 
 header {
-    background-color: #333;
-    color: #8bd6ed;
+    color: #c1a04f;
     padding: 1em;
     text-align: center;
 }
@@ -31,7 +38,7 @@ nav {
 }
 
 nav a {
-    color: #fff;
+    color: #c1a04f;
     text-decoration: none;
     margin: 0 1em;
 }
@@ -51,54 +58,10 @@ main {
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
-/* Styling for job listings */
-.yrityksille {
-    border: 1px solid #ccc;
-    padding: 1em;
-    margin-bottom: 1em;
-    width: 48%; /* Set the width to leave some space between the divs */
-    box-sizing: border-box; /* Include padding and border in the width */
-    float: left; /* Float the divs to make them appear side by side */
-    margin-right: 10%; /* Add a margin to create space between the divs */
-}
-
-.yrityksille h2 {
-    color: #333;
-}
-
-.yrityksille p {
-    color: #666;
-}
-
-.tekijöille {
-    border: 1px solid #ccc;
-    padding: 1em;
-    margin-bottom: 1em;
-    width: 48%; /* Set the width to leave some space between the divs */
-    box-sizing: border-box; /* Include padding and border in the width */
-    float: left; /* Float the divs to make them appear side by side */
-    margin-right: 10%; /* Add a margin to create space between the divs */
-}
-
-.tekijöille h2 {
-    color: #333;
-}
-
-.tekijöille p {
-    color: #666;
-}
-
-/* Clear the float after the floated divs */
-.clearfix:after {
-    content: "";
-    display: table;
-    clear: both;
-}
-
 
 footer {
     margin-top: auto;
-    background-color: #333;
+    background-color: #c1a04f;
     text-align: center;
     color: rgb(106, 198, 237);
     padding: 1em;
