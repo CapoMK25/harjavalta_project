@@ -25,3 +25,58 @@ Features to be developed in the future:
 - Feedback and Ratings System: (Allow both job seekers and employers to provide feedback and ratings after the hiring process. This builds transparency and trust within the platform.)
 
 - Incentives for Employers: (Provide incentives for companies to participate actively on the platform, such as reduced fees for job postings, access to a larger talent pool, or recognition for companies contributing to local employment.)
+```
+harjavalta_project
+├─ brainstorming_harjavalta.txt
+├─ harjavalta_project
+│  ├─ db.sqlite3
+│  ├─ dist
+│  │  └─ main.js
+│  ├─ harjavalta
+│  │  ├─ admin.py
+│  │  ├─ apps.py
+│  │  ├─ babel.config.json
+│  │  ├─ migrations
+│  │  │  ├─ __init__.py
+│  │  │  └─ __pycache__
+│  │  │     └─ __init__.cpython-312.pyc
+│  │  ├─ models.py
+│  │  ├─ package-lock.json
+│  │  ├─ package.json
+│  │  ├─ public
+│  │  │  └─ index.html
+│  │  ├─ src
+│  │  │  ├─ App.js
+│  │  │  ├─ bundle.js
+│  │  │  ├─ Harjavalta.vaakuna.svg.png
+│  │  │  ├─ index.js
+│  │  │  ├─ main.css
+│  │  │  ├─ main.js
+│  │  │  └─ test.js
+│  │  ├─ tests.py
+│  │  ├─ urls.py
+│  │  ├─ views.py
+│  │  ├─ webpack.config.js
+│  │  ├─ __init__.py
+│  │  └─ __pycache__
+│  │     ├─ admin.cpython-312.pyc
+│  │     ├─ apps.cpython-312.pyc
+│  │     ├─ models.cpython-312.pyc
+│  │     ├─ urls.cpython-312.pyc
+│  │     ├─ views.cpython-312.pyc
+│  │     └─ __init__.cpython-312.pyc
+│  ├─ harjavalta_project
+│  │  ├─ asgi.py
+│  │  ├─ settings.py
+│  │  ├─ urls.py
+│  │  ├─ wsgi.py
+│  │  ├─ __init__.py
+│  │  └─ __pycache__
+│  │     ├─ settings.cpython-312.pyc
+│  │     ├─ urls.cpython-312.pyc
+│  │     ├─ wsgi.cpython-312.pyc
+│  │     └─ __init__.cpython-312.pyc
+│  └─ manage.py
+└─ README.md
+
+```
