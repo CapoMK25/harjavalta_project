@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="fi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Info</title>
+    {% load static %}
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="{% static 'main.css' %}">
+    
+</head>
+<body>
+
+    <div id="root">
+    </div>
+
+    <!-- Header Section -->
+    <header>
+        <h1>Infoa sivusta</h1>
+       
+    </header>
+
+    <main>
+
+        <nav>
+            <a href="{% url 'koti' %}" onclick="redirectTo('{% url "koti" %}')">Koti</a>
+            <a href="{% url 'jobs' %}" onclick="redirectTo('{% url "jobs" %}')">Työpaikat</a>
+            <a href="{% url 'yrityksille' %}" onclick="redirectTo('{% url "yrityksille" %}')">Yrityksille</a>
+            <a href="{% url 'työntekijöille' %}" onclick="redirectTo('{% url "työntekijöille" %}')">Työntekijöille</a>
+            <a href="{% url 'info' %}" onclick="redirectTo('{% url "info" %}')">Info</a>
+        </nav>
+        
+        
+
+        <section>
+            <h2>Tältä sivulta löydät infoa räätälöitynä omaan tilanteeseesi liittyen. <br></br>
+                Harjavallan työllisyystilanne on Satakunnan toisiksi huonointa. <br></br>
+                Tätä olen halunnut lähteä ratkomaan tämän nettisovelluksen avulla. <br></br>
+        </section>
+
+      
+
+    </main>
+
+    <script src="{% static "main.js" %}"></script>
+    <script src="{% static "redirect.js" %}"></script>
+
+
+    <!-- Footer Section -->
+    <footer>
+        <p>&copy; 2024 Duunin Vallassa</p>
+        
+    </footer>
+
+    
+
+</body>
+</html>

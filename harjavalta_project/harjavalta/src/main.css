@@ -41,8 +41,12 @@ nav a {
     color: #c1a04f;
     text-decoration: none;
     margin: 0 1em;
+    transition: color 0.3s ease; /* Add transition for smooth color change */
 }
 
+nav a:hover {
+    color: #000000; /* Change color on hover */
+}
 
 main {
     text-align: center;
