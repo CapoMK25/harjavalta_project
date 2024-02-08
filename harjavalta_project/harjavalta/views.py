@@ -19,8 +19,8 @@ def jobs(request):
 def yrityksille(request):
     return render(request, 'yrityksille.html')
 
-def työntekijöille(request):
-    return render(request, 'työntekijöille.html')
+def employees(request):
+    return render(request, 'employees.html')
 
 def info(request):
     return render(request, 'info.html')
