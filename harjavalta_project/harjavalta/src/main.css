@@ -1,7 +1,7 @@
 h2, h3, p {
     margin: 0;
     padding: 0;
-    color: #000000;
+    color: #ffffff;
 }
 
 h1 {
@@ -31,7 +31,7 @@ header {
 }
 
 nav {
-    background-color: #444;
+    background-color: #1f48ce;
     padding: 0.5em;
 }
 
@@ -43,7 +43,7 @@ nav a {
 }
 
 nav a:hover {
-    color: #000000; /* Change color on hover */
+    color: #ffffff; /* Change color on hover */
     transform: scale(1.1); /* Scale up on hover */
 }
 
